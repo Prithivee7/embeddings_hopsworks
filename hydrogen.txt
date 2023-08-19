@@ -1,0 +1,22 @@
+Hydrogen is the chemical element with the symbol H and atomic number 1.
+Hydrogen is the lightest element.
+At standard conditions hydrogen is a gas of diatomic molecules having the formula H2.
+It is colorless, odorless, tasteless,[8] non-toxic, and highly combustible.
+Hydrogen is the most abundant chemical substance in the universe, constituting roughly 75% of all normal matter.
+Stars such as the Sun are mainly composed of hydrogen in the plasma state.
+Most of the hydrogen on Earth exists in molecular forms such as water and organic compounds.
+For the most common isotope of hydrogen (symbol 1H) each atom has one proton, one electron, and no neutrons.
+In the early universe, the formation of protons, the nuclei of hydrogen, occurred during the first second after the Big Bang.
+The emergence of neutral hydrogen atoms throughout the universe occurred about 370,000 years later during the recombination epoch, when the plasma had cooled enough for electrons to remain bound to protons.
+Hydrogen is nonmetallic (except when it becomes metallic at extremely high pressures) and readily forms a single covalent bond with most nonmetallic elements, forming compounds such as water and nearly all organic compounds.
+Hydrogen plays a particularly important role in acid–base reactions because these reactions usually involve the exchange of protons between soluble molecules.
+In ionic compounds, hydrogen can take the form of a negative charge where it is known as a hydride, or as a positively charged species denoted by the symbol H+.
+The H+ cation is simply a proton (symbol p) but its behavior in aqueous solutions and in ionic compounds involves screening of its electric charge by nearby polar molecules or anions.
+Because hydrogen is the only neutral atom for which the Schrödinger equation can be solved analytically, the study of its energetics and chemical bonding has played a key role in the development of quantum mechanics.
+Hydrogen gas was first artificially produced in the early 16th century by the reaction of acids on metals.
+In 1766–1781, Henry Cavendish was the first to recognize that hydrogen gas was a discrete substance and that it produces water when burned, the property for which it was later named: in Greek, hydrogen means "water-former".
+Industrial production is mainly from steam reforming of natural gas, oil reforming, or coal gasification.
+A small percentage is also produced using more energy-intensive methods such as the electrolysis of water.
+Most hydrogen is used near the site of its production, the two largest uses being fossil fuel processing and ammonia production.
+It can be burned to produce heat or combined with oxygen in fuel cells to generate electricity directly, with water being the only emissions at the point of usage.
+Hydrogen atoms may embrittle metals.
