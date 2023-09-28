@@ -1,0 +1,6 @@
+langchain==0.0.304
+hopsworks==3.2.0
+pandas==1.5.3
+hsfs==3.2.1
+tiktoken==0.5.1
+openai==0.28.1
